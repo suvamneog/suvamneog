@@ -54,7 +54,7 @@ const path = {
 <p><em>"To hurt others is to hurt yourself"</em></p>
 
 <!-- Replace username with your LeetCode username -->
-<img src="https://leetcard.jacoblin.cool/your-username?theme=nord&font=Noto%20Sans&ext=heatmap&border=0&radius=20&hide_title=true" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/A0CuhG0O2J?theme=nord&font=Noto%20Sans&ext=heatmap&border=0&radius=20&hide_title=true" alt="LeetCode Stats" />
 
 <sub>Problems solved not through violence, but through patience and understanding</sub>
 </div>
