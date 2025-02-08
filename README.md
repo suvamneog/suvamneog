@@ -37,6 +37,24 @@ const path = {
 };
 ```
 
+### Path of Continuous Growth
+
+<div align="center">
+
+<!-- Replace username with your GitHub username -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=00000000&stroke=4A4A4A&ring=4A4A4A&fire=4A4A4A&currStreakNum=4A4A4A&sideNums=4A4A4A&currStreakLabel=4A4A4A&sideLabels=4A4A4A&dates=4A4A4A" alt="GitHub Streak" />
+
+</div>
+
+### Daily Practice
+
+<div align="center">
+
+<!-- Replace username with your LeetCode username -->
+<img src="https://leetcard.jacoblin.cool/your-username?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
+
+</div>
+
 ### Crafting
 
 <div align="center">
