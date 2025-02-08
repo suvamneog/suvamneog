@@ -1,22 +1,53 @@
+<!-- Dramatic header -->
 <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/artworks-qjyLDaD49oQH7VAB-hdfuXQ-t500x500-HnwD9S8tGUAyofNhsJjF6sICFNlUOZ.webp" width="200" alt="Profile Art" style="border-radius: 10px;"/>
-  
-  # I HAVE NO ENEMIES
-  
-  <p align="center">
-    <code>Developer</code> • <code>Artist</code> • <code>Creator</code>
-  </p>
+  <img src="https://images.unsplash.com/photo-1516410529446-2c777cb7366d?auto=format&fit=crop&q=80&w=2000&h=400" alt="Black and white ink art">
 </div>
+
+<h1 align="center">野心 | AMBITION</h1>
+
+<p align="center">
+  <em>In the storm of creation, finding peace through code</em>
+</p>
 
 ---
 
 <div align="center">
 
-### 🌪️ Current Focus
+```
+走り続ける限り、道は続いている
+As long as you keep running, the road continues
+```
 
-```typescript
-const life = {
-  coding: ["TypeScript", "React", "Node.js"],
-  creating: ["Digital Art", "Web Experiences"],
-  exploring: "New Technologies"
+</div>
+
+### Spirit
+
+- 🌊 Dancing with chaos
+- 🖤 Crafting digital storms
+- ⚡ Breaking limits
+- 🗡️ Forging new paths
+
+### Current Saga
+
+```js
+const journey = {
+  path: ['Determination', 'Growth', 'Power'],
+  skills: ['Code', 'Design', 'Innovation'],
+  mission: 'Transcend ordinary limits'
 };
+```
+
+### Chronicles
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>The storm within fuels the journey ahead</sub>
+</div>
