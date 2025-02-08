@@ -1,41 +1,64 @@
+<!-- Header -->
 <div align="center">
-<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/artworks-qjyLDaD49oQH7VAB-hdfuXQ-t500x500-HnwD9S8tGUAyofNhsJjF6sICFNlUOZ.webp" width="200" alt="Profile Art"/>
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/artworks-qjyLDaD49oQH7VAB-hdfuXQ-t500x500-HnwD9S8tGUAyofNhsJjF6sICFNlUOZ.webp" width="200" alt="Profile Art" style="border-radius: 10px;"/>
+</div>
 
-# I HAVE NO ENEMIES
+<h1 align="center">平和 | PEACE</h1>
 
-_"The world is not my enemy"_
+<p align="center">
+  <em>"I have no enemies. The world is not my enemy."</em>
+</p>
+
+---
+
+<div align="center">
 
 ```
-敵なんていない
+敵なんていない、世界は敵じゃない
+There are no enemies, the world is not my enemy
 ```
+
+</div>
+
+### Philosophy
+
+- 🌱 Growing through understanding
+- 🕊️ Building bridges, not walls
+- 🌊 Finding strength in peace
+- 🌿 Creating, not destroying
+
+### Current Journey
+
+```js
+const path = {
+  mindset: 'Growth through peace',
+  goals: ['Create', 'Learn', 'Share'],
+  daily: 'Make the world better than I found it'
+};
+```
+
+### Crafting
+
+<div align="center">
+
+```
+Code is not for conquest
+But for cultivation
+```
+
+</div>
+
+### Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-626970?style=for-the-badge&logo=About.me&logoColor=white)](https://myportfolio-w7ua.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-626970?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suvamneog)
 
 </div>
 
 ---
 
-```js
-const path = {
-  truth: 'Understanding dissolves hatred',
-  practice: 'Every line of code brings peace'
-};
-```
-
 <div align="center">
-
-<!-- Replace username with your GitHub username -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=graywhite&hide_border=true&background=00000000&stroke=333333&ring=333333&fire=333333&currStreakNum=333333&sideNums=333333&currStreakLabel=333333&sideLabels=333333&dates=333333" alt="GitHub Streak"/>
-
-<!-- Replace username with your LeetCode username -->
-<img src="https://leetcard.jacoblin.cool/your-username?theme=light&font=Noto%20Sans&ext=heatmap&border=0&radius=0&hide_title=true" alt="LeetCode Stats"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
-
-</div>
-
-<div align="center">
-<sub>Creating, not destroying • Learning, not fighting • Understanding, not judging</sub>
+  <sub>True strength lies not in the sword, but in the power to create</sub>
 </div>
