@@ -52,8 +52,8 @@ But for cultivation
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-626970?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-626970?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-626970?style=for-the-badge&logo=About.me&logoColor=white)](https://myportfolio-w7ua.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-626970?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suvamneog)
 
 </div>
 
