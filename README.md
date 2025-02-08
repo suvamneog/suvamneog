@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1504198580308-d186fefc6c97?auto=format&fit=crop&q=80&w=2000&h=400" alt="Misty landscape representing peace">
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/artworks-qjyLDaD49oQH7VAB-hdfuXQ-t500x500-HnwD9S8tGUAyofNhsJjF6sICFNlUOZ.webp" width="200" alt="Profile Art" style="border-radius: 10px;"/>
 </div>
 
 <h1 align="center">平和 | PEACE</h1>
