@@ -37,28 +37,6 @@ const path = {
 };
 ```
 
-### Seeds of Growth
-
-<div align="center">
-<p><em>"A true warrior needs no sword"</em></p>
-
-<!-- Replace username with your GitHub username -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suvamneog&theme=tokyonight&hide_border=true&background=00000000&stroke=626970&ring=626970&fire=A0522D&currStreakNum=626970&sideNums=626970&currStreakLabel=A0522D&sideLabels=626970&dates=626970" alt="GitHub Streak" />
-
-<sub>Each commit is a step toward understanding, not a battle to be won</sub>
-</div>
-
-### Path of Wisdom
-
-<div align="center">
-<p><em>"To hurt others is to hurt yourself"</em></p>
-
-<!-- Replace username with your LeetCode username -->
-<img src="https://leetcard.jacoblin.cool/A0CuhG0O2J?theme=nord&font=Noto%20Sans&ext=heatmap&border=0&radius=20&hide_title=true" alt="LeetCode Stats" />
-
-<sub>Problems solved not through violence, but through patience and understanding</sub>
-</div>
-
 ### Crafting
 
 <div align="center">
