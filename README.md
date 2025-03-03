@@ -58,7 +58,9 @@ But for cultivation
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-626970?style=for-the-badge&logo=About.me&logoColor=white)](https://myportfolio-w7ua.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-626970?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suvamneog)
-
+  <a href="https://www.buymeacoffee.com/suvamneog" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  </a>
 </div>
 
 ---
