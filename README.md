@@ -57,7 +57,6 @@ But for cultivation
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/suvamneog)
 
 </div>
----
 
 <div align="center">
   <sub>True strength lies not in the sword, but in the power to create</sub>
