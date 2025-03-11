@@ -40,12 +40,10 @@ const path = {
 ### Crafting
 
 <div align="center">
-```
-```
+
 Code is not for conquest
 But for cultivation
-```
-```
+
 
 </div>
 
