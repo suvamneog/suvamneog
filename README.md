@@ -58,5 +58,5 @@ But for cultivation
 </div>
 
 <div align="center">
-  <sub>True strength lies not in the sword, but in the power to create</sub>
+  <sub>True strength lies not in the sword, but in the power to create.</sub>
 </div>
