@@ -6,7 +6,7 @@
 <h1 align="center">平和 | PEACE</h1>
 
 <p align="center">
-  <em>"I have no enemies. The world is not my enemy."</em>
+  <em>"I have no enemies. The world is not my enemy"</em>
 </p>
 
 ---
