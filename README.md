@@ -41,7 +41,7 @@ const path = {
 
 <div align="center">
 
-Code is not for conquest
+Code is not for conquest<br/>
 But for cultivation
 
 
