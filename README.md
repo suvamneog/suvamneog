@@ -51,7 +51,7 @@ But for cultivation
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-626970?style=for-the-badge&logo=About.me&logoColor=white)](https://myportfolio-w7ua.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-626970?style=for-the-badge&logo=About.me&logoColor=white)](https://suvamneog.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-626970?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suvamneog)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/suvamneog)
 
